@@ -1,0 +1,10 @@
+body{
+    background-image: url('./images/pattern-background-desktop.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #E0E8FF;
+    
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.customShadow{ box-shadow: 0px 15px 10px #DEDBF8;}
